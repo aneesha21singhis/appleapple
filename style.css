@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(141, 245, 245);
+}
+
+.canva{
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.bttn{
+    border: 20px;
+    background-color: lightsalmon;
+    width: 90px;
+    height: 30px;
+    border-radius: 9px;
+    text-align: center;
+    text-decoration:underline;
+    text-decoration-color: rgb(0, 0, 0);
+}
+
+.inp{
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: lightseagreen;
+    font-size:medium;
+    font-weight: 100;
+}
+
